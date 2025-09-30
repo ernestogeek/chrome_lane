@@ -1,0 +1,30 @@
+/* container.css: CSS for TabFern's win/container.html */
+
+/* //////////////////////////////////////////////////////////////////// */
+/* Layout */
+
+/* html, body, and #overall-container stay 100% all the time.
+ * #tree-iframe is also always 100% of its parent, #tree-container.
+ * #tree-container is 100% height. */
+html, body, #overall-container, #tree-container, #tree-iframe {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+/* //////////////////////////////////////////////////////////////////// */
+/* Accessibility */
+
+/* Thanks to http://webaim.org/techniques/css/invisiblecontent/ */
+.hidden-but-accessible {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
