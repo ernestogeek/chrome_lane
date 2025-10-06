@@ -2,7 +2,7 @@
 
 TabFern is built using [brunch](https://brunch.io/).
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more about how to work with the code.
+
 
 For Firefox, see
 [the wiki](https://github.com/cxw42/TabFern/wiki/Developing-on-Firefox).
