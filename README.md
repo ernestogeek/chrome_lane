@@ -5,7 +5,7 @@
 ## Developing on TabFern
 
  - For more information on developing TabFern, see below
- - See [INTERNALS.md](INTERNALS.md) for details of how the code is structured.
+
 
 
 ## What is TabFern?
