@@ -56,13 +56,3 @@
    window is generally where the new window will end up.
  - Lots of others I'm not going to list right now!
 
-# Thanks
-
- - [Extensionizr](https://extensionizr.com)
- - [jstree](https://www.jstree.com/)
- - [jstree-actions](https://github.com/alexandernst/jstree-actions)
- - [jquery](https://jquery.com/)
- - [Barnsley fern generator](http://www.chradams.co.uk/fern/maker.html)
- - [famfamfam Silk icons](http://www.famfamfam.com/lab/icons/silk/)
-
-
